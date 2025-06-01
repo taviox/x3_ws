@@ -53,7 +53,7 @@ Simular una trayectoria circular del robot móvil X3 en un entorno virtual utili
 
 ##  Video de la Simulación
 
-Se adjunta un video (`simulacion_trayectoria_circular.mp4`) que muestra el robot X3 siguiendo una trayectoria circular en Gazebo.
+Se adjunta un video [aquí](https://drive.google.com/file/d/1__XXZ5eXunOfsvB428ExPHfWK_q-WWGe/view?usp=drive_link)  que muestra el robot X3 siguiendo una trayectoria circular en Gazebo.
 
 ---
 
