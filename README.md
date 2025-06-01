@@ -5,6 +5,3 @@ Repositorio para el desarrollo del robot ROSMASTER X3, con soporte para ROS1 y R
  
  -García	Cruz	Eduardo Norberto.
  
- -García	Téllez	Fátima Georgina.
- 
- -Jiménez	Téllez	Axel Eduardo.
