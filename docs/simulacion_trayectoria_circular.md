@@ -33,7 +33,7 @@ Simular una trayectoria circular del robot móvil X3 en un entorno virtual utili
 
 - Se utilizó un archivo de lanzamiento (`.launch.py`) para iniciar Gazebo y Rviz con el modelo del robot:
   ```bash
-  ros2 launch x3_description x3_simulation.launch.py
+  ros2 launch omni_bringup simple_velocity_controller.launch.py
   ```
 
 ### 4. Control del Robot
