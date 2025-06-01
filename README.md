@@ -7,4 +7,4 @@ Repositorio para el desarrollo del robot ROSMASTER X3, con soporte para ROS1 y R
  
 ## Video de la simulación
 
-Puedes ver el video de la trayectoria circular [aquí](https://drive.google.com/file/d/1__XXZ5eXunOfsvB428ExPHfWK_q-WWGe/view?usp=drive_link).
+Puedes ver el video del robot [aquí](https://drive.google.com/file/d/1__XXZ5eXunOfsvB428ExPHfWK_q-WWGe/view?usp=drive_link).
